@@ -12,5 +12,5 @@ license: "Apache-2.0"
 categories: ["UTILITY"]
 
 versions:
-  - sha: "PLACEHOLDER_SHA"
+  - sha: "2a8749a66f89abe9b764a6377cd521b4a0c6b231"
     changeNotes: "Initial release of the Eye One Accessibility GTM template."
