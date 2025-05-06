@@ -1,8 +1,16 @@
-name: Eye One Accessibility Widget
-description: Official GTM template for loading the Eye One Accessibility Widget.
-version: "1.0.0"
+displayName: "Eye One Accessibility Widget"
+description: "Google Tag Manager template to embed the Eye One Accessibility (All-in-One) web accessibility widget via an API key."
+# The template’s display name and description as they will appear in the gallery
+
 author:
-  name: Eye One
-  url: https://eye.one
-container_type: WEB
-license: Apache-2.0
+  name: "Eye One"
+  url: "https://eye.one"  # homepage or company site (placeholder)
+
+license: "Apache-2.0"
+
+# Categories (if desired, e.g., Accessibility or Utility)
+categories: ["UTILITY"]
+
+versions:
+  - sha: "PLACEHOLDER_SHA"
+    changeNotes: "Initial release of the Eye One Accessibility GTM template."
