@@ -1,6 +1,6 @@
 name: Eye One Accessibility Widget
 description: Official GTM template for loading the Eye One Accessibility Widget.
-version: 0.0.1
+version: "1.0.0"
 author:
   name: Eye One
   url: https://eye.one
